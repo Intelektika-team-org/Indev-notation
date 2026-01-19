@@ -27,3 +27,16 @@
 Principles -
 - **SOLID**: You have to know a solid principles to write clean architecture.
 - **System Design**: Before wiriting think about architecture of code and imagine how to realize that.
+
+## Project structure
+All projects has same structure like -
+```
+./
+  src/
+    PROJECT_NAME/
+      lib/
+      main_file
+      README.md
+  README.md
+  ... (system files and other)
+```
