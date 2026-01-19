@@ -1,5 +1,5 @@
 # Team Work Notation
 
 
-## Project managment
-All members of team must be in private Telegram chat
+## Task management & Talking
+All working goes in private chat repository ([repo](https://github.com/Intelektika-team-org/Chats-discussions))
