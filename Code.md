@@ -19,7 +19,8 @@
 | Parameter | Description |
 | :--- | :--- |
 | Line Length | Length of line must be less or equals to 100. Only for readable and simple understand |
-| Comments | Comments must be short and clean, length must be less or equals to 50 |
+| Comments after code line | Comments must be short and clean, length must be less or equals to 50 |
+| Comment lines | Length of comment lines must be less or equals to 100. |
 | Documentation | All algorithms must be described on comments (or only has name), and magic numbers and values must be documented too. Your docs must be exhaustive and clean, in one style |
 | Dependency Managment | Try to avoid dependencies and write only with std lib, but if you use libs or frameworks you must add then name to `REQUIREMENTS` file |
 
