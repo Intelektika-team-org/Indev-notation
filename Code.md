@@ -1,6 +1,6 @@
 # Code Notation
 **MAIN RULE:** No AI! All your code must be humanmade and only humanmade. You have to understand your algorithms and can to describe your choice. If you didn't know how to realize algorithm, you can use google or ask AI (but only to understand the principle, and not to get the code). All your code must be sent for review by teamlead, and you must be rewrite all code if you cant describe that works. Teamlead check -
-- Indev-code notation conformity
+- Intdev-code notation conformity
 - Performance of algorithms
 - Documentation
 
