@@ -8,12 +8,12 @@
 | Object | Naming Format | Example |
 | :--- | :--- | :--- |
 | Class | CamelCase | `TestClass` |
-| Functions & Methods | snake_case | int_get_value |
-| System Functions & Methods | _snake_case | _get_value |
-| Args | Short but clear | input_value |
-| Variables | name | counter | 
-| System Variables | _name | _counter | 
-| Constants | UPPER_CASE | MODULE_VERSION |
+| Functions & Methods | snake_case | `int_get_value` |
+| System Functions & Methods | _snake_case | `_get_value` |
+| Args | Short but clear | `input_value` |
+| Variables | name | `counter` | 
+| System Variables | `_name` | `_counter` | 
+| Constants | UPPER_CASE | `MODULE_VERSION` |
 
 ## Code style
 | Parameter | Description |
